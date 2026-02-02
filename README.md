@@ -31,7 +31,10 @@ Maintain clean, reusable Terraform modules
 
 🏗️ Production-grade dependency orchestration
 
-🧱 Repository Structure
+
+## 🧱 Repository Structure
+
+```text
 terraform-azure-automation-schedule/
 ├── modules/
 │   ├── resource_group/              # Azure Resource Groups
@@ -66,6 +69,8 @@ terraform-azure-automation-schedule/
 │       └── terraform.tfvars
 │
 └── README.md
+
+
 
 🔁 Automation Execution Flow
 Resource Group
